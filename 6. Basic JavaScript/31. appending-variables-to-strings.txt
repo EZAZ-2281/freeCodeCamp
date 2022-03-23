@@ -1,0 +1,4 @@
+// Change code below this line
+var someAdjective = "difficult but rewarding!"; 
+var myStr = "Learning to code is ";
+myStr += someAdjective;
